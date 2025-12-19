@@ -1,2 +1,2 @@
 # myusuftuncel.github.io
-Myusuftuncel Homepage
+ADS 352 için oluşturulmuş web sitesi
